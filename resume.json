@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "theme": "kendall"
+  },
+  "basics": {
+    "name": "Francisco Gonzalez",
+    "label": "Software Engineer",
+    "image": "https://user-images.githubusercontent.com/23651365/153500135-ffe1e3bf-00e9-491b-b253-e1fb2152c56f.png",
+    "email": "francisco.gonz64@gmail.com",
+    "phone": "(562) 716-0243",
+    "summary": "I am a self-taught programmer and have constantly pushed myself to learn new technologies while sharing my ideas in a cross-functional development environment. Experienced with Front-End, Back-End development and database maintenance while building reusable components and libraries for future use with best-in-class patterns. I am looking for a challenging environment that will enhance my problem-solving skills around cloud infrastructure and microservices.",
+    "location": {
+      "city": "Eastvale",
+      "postalCode": "CA, 91752"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/francisco-gonzalez-a31821b2",
+        "network": "Github",
+        "url": "https://github.com/Franciscogonz64"
+      }
+    ],
+    "url": "https://franciscogonz64.github.io/myWebsite"
+  },
+  "work": [
+    {
+      "name": "Gemmacon, North America Inc.",
+      "description": "Software Consulting Company",
+      "location": "Long Beach, CA",
+      "startDate": "2020-02-01",
+      "endDate": "2021-05-01",
+      "position": "Fullstack Engineer",
+      "summary": "Successfully relaunched the Mercedes Me Connect iOS application into the Apple App Store while achieving a 4.8-star rating with 68k reviews from users. Collaborated with scrum team of developers, DevOps, and shareholders to translate client requirements into implementable user experiences. Improved product quality through code reviews, writing unit tests and collaborating with QA team. Enhanced multiple features such as ADA compliance for visually impaired users, vehicle pairing, collision detection, user registrations (Face & Fingerprint ID), remote unlocking vehicle and remote engine start/stop. Used Swift client for frontend development and GoLang for backend microservices. Gained experience with containerizing, automating and scaling applications using Docker, Kubernetes Terraform, AWS and Jenkins for CICD pipeline. Began to familiarize myself with Istio concepts such as Envoy, Telemetry (Kiali to monitor traffic flow, Jaeger for single request tracking and Grafana for monitoring infrastructure and log analytics to improve efficiency), Canary and Dark Releases, Fault Injections to observe fault tolerances and Circuit Breaking for limiting the impact of failure, latency spikes and other undesired network effects.",
+      "highlights": [
+        "Enhanced my frontend skills set using a Swift client and GoLang for backend microservices",
+        "Introduced to backend team which began my interest with cloud infrastructure",
+        "Gained high-overview knowledge of Istio concepts for improving microservice-based architectures",
+        "Learning these concepts changed my thought process while developing and allowed me to understand not only to how things work, but WHY."
+      ]
+    },
+
+    {
+      "name": "Microvention",
+      "position": "JDE Coordinator",
+      "startDate": "2019-08-01",
+      "endDate": "2020-02-01",
+      "location": "Aliso Viejo, CA",
+      "description": "Neuroendovascular Medical Device Company",
+      "summary": "Support and assist medical device company with the ERP IT team with ongoing technical tasks (analysis, configuration, testing etc.). Setup and remove user profiles in JDE as well as 3rd party integrated applications: RFSMART and SOXLock. Run and analyze World Writer reports to check for potential issues. Maintain ERP system integrity by updating data using SQL or DFU. Check for out of balance Inventory transactions, create a ticket for those ones and assign to the team or consultant for resolution. Assist with update of shelf-life commitment and order lot allocations. Reprocess FedEx returns and receipts confirmations. Correct daily item lot issues.  Provide user training on JDE system. Resolve issues with output queues and clearing data on a weekly basis. Assist with Machine Shop project by adding/updating Bill of Materials. Assign or direct to correct group tickets in HelpDesk ticket system. Document new processes or issue resolution. Assist with any other tasks assigned by the ERP Systems Manager.",
+      "highlights": [
+        "Gained a better understanding of logistical services",
+        "Improved my SQL knowledge",
+        "Sharpened my analytical skills"
+      ]
+    },
+
+    {
+      "name": "Solar City",
+      "position": "Field Energy Consultant",
+      "startDate": "2015-09-01",
+      "endDate": "2015-12-01",
+      "location": "Hawthorne, CA",
+      "description": "Solar Panel Manufacturing & Installation",
+      "summary": "",
+      "highlights": [
+        "Enhanced my networking skills",
+        "Customer service",
+        "Improved my time management prioritization"
+      ]
+    },
+
+    {
+      "name": "Boyd West Inc.",
+      "position": "Junior iOS Developer",
+      "startDate": "2014-07-01",
+      "endDate": "2015-05-01",
+      "location": "Orange, CA",
+      "description": "Direct Sales and Marketing",
+      "summary": "Used Swift client, Unit/UI testing, Swift Data Structures, Protocol orientated programming, Face ID and Fingerprint ID recognition, Cocoapods, Core Data, GPS, RESTful APIs, JSON, FireBase, Alamofire and other various third-party frameworks to connect app to back-end services.",
+      "highlights": [
+        "Gained experience submitting apps to the App Store",
+        "Familiarized myself with cloud-based message APIs and push notifications",
+        "Gathered a better understanding of iOS design patterns"
+      ]
+    },
+
+    {
+      "name": "Mercy Ambulance",
+      "position": "Emergency Medical Technician",
+      "startDate": "2013-10-01",
+      "endDate": "2014-04-01",
+      "location": "Downey, CA",
+      "description": "Emergency Response",
+      "summary": "",
+      "highlights": [
+        "Responded to emergency situations",
+        "Triaged patients based on how critical they were",
+        "Transported patients to & from hospitals"
+      ]
+    },
+
+    {
+      "name": "Knotts Berry Farm",
+      "position": "Ride Operator",
+      "startDate": "2011-04-01",
+      "endDate": "2012-09-01",
+      "location": "Buena Park, CA",
+      "description": "Theme Park",
+      "summary": "",
+      "highlights": [
+        "Operated rides and ensured the safety of guests",
+        "Customer Service",
+        "Trained new employees how to safely operate rides"
+      ]
+    }
+
+  ],
+
+  "languages": [
+    {
+      "fluency": "Fluent",
+      "language": "Spanish"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cerritos College",
+      "studyType": "Associates",
+      "area": "Natural Science",
+      "endDate": "2020-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Golang",
+      "level": "Intermediate",
+      "keywords": [
+        "golang",
+        "go"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Intermediate",
+      "keywords": [
+        "kubernetes",
+        "k8s"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "docker"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "level": "Beginner",
+      "keywords": [
+        "terraform"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "keywords": [
+        "aws",
+        "amazon",
+        "amazon-web-services"
+      ]
+    },
+    {
+      "name": "Jaeger",
+      "level": "Beginner",
+      "keywords": [
+        "jaeger"
+      ]
+    },
+    {
+      "name": "Istio",
+      "level": "Beginner",
+      "keywords": [
+        "istio",
+        "service-mesh"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "git",
+        "vcs"
+      ]
+    },
+    {
+      "name": "Swift",
+      "level": "Advanced",
+      "keywords": [
+        "swift"
+      ]
+    },
+    {
+      "name": "TDD",
+      "level": "Advanced",
+      "keywords": [
+        "tdd",
+        "test-drive-development"
+      ]
+    },
+    {
+      "name": "API Development",
+      "level": "Advanced",
+      "keywords": [
+        "apis",
+        "restful-apis"
+      ]
+    }
+  ]
+}
