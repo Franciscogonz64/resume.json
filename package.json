@@ -2,8 +2,8 @@
   "name": "franky_resume",
   "version": "1.0.0",
   "scripts": {
-    "generate:resumes": "npx resume export --theme elegant resumes/resume-elegant.pdf && npx resume export --theme elegant resumes/resume-flat.pdf && npx resume export --theme elegant resumes/resume-kendall.pdf && npx resume export --theme elegant resumes/resume-slick.pdf",
-    "generate:sites": "npx resume export --theme elegant sites/resume-elegant.html && npx resume export --theme elegant sites/resume-flat.html && npx resume export --theme elegant sites/resume-kendall.html && npx resume export --theme elegant sites/resume-slick.html",
+    "generate:resumes": "npx resume export --theme elegant resumes/resume-elegant.pdf && npx resume export --theme flat resumes/resume-flat.pdf && npx resume export --theme kendall resumes/resume-kendall.pdf && npx resume export --theme slick resumes/resume-slick.pdf",
+    "generate:sites": "npx resume export --theme elegant sites/resume-elegant.html && npx resume export --theme flat sites/resume-flat.html && npx resume export --theme kendall sites/resume-kendall.html && npx resume export --theme slick sites/resume-slick.html",
     "generate": "npm run generate:resumes && npm run generate:sites"
   },
   "dependencies": {
