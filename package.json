@@ -2,11 +2,12 @@
   "name": "franky_resume",
   "version": "1.0.0",
   "scripts": {
-    "generate:resumes": "npx resume export --theme elegant resumes/resume-elegant.pdf && npx resume export --theme flat resumes/resume-flat.pdf && npx resume export --theme kendall resumes/resume-kendall.pdf && npx resume export --theme slick resumes/resume-slick.pdf && npx resume export --theme caffeine resumes/resume-caffeine.pdf",
-    "generate:sites": "npx resume export --theme elegant sites/resume-elegant.html && npx resume export --theme flat sites/resume-flat.html && npx resume export --theme kendall sites/resume-kendall.html && npx resume export --theme slick sites/resume-slick.html && npx resume export --theme caffeine sites/resume-caffeine.html",
+    "generate:resumes": "npx resume export --theme elegant resumes/resume-elegant.pdf && npx resume export --theme flat resumes/resume-flat.pdf && npx resume export --theme kendall resumes/resume-kendall.pdf && npx resume export --theme slick resumes/resume-slick.pdf && npx resume export --theme caffeine resumes/resume-caffeine.pdf && npx resume export --theme actual resumes/resume-actual.pdf",
+    "generate:sites": "npx resume export --theme elegant sites/resume-elegant.html && npx resume export --theme flat sites/resume-flat.html && npx resume export --theme kendall sites/resume-kendall.html && npx resume export --theme slick sites/resume-slick.html && npx resume export --theme caffeine sites/resume-caffeine.html && npx resume export --theme actual sites/resume-actual.html",
     "generate": "npm run generate:resumes && npm run generate:sites"
   },
   "dependencies": {
+    "jsonresume-theme-actual": "^0.1.6",
     "jsonresume-theme-caffeine": "^1.2.3",
     "jsonresume-theme-elegant": "^1.16.1",
     "jsonresume-theme-flat": "^0.3.7",

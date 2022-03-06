@@ -103,73 +103,39 @@
   "skills": [
     {
       "name": "Golang",
-      "level": "Intermediate",
-      "keywords": [
-        "golang",
-        "go"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Kubernetes",
-      "level": "Intermediate",
-      "keywords": [
-        "kubernetes",
-        "k8s"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Docker",
-      "level": "Intermediate",
-      "keywords": [
-        "docker"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Terraform",
-      "level": "Beginner",
-      "keywords": [
-        "terraform"
-      ]
+      "level": "Beginner"
     },
     {
       "name": "AWS",
-      "level": "Intermediate",
-      "keywords": [
-        "aws",
-        "amazon",
-        "amazon-web-services"
-      ]
+      "level": "Intermediate"
     },
     {
       "name": "Git",
-      "level": "Advanced",
-      "keywords": [
-        "git",
-        "vcs"
-      ]
+      "level": "Advanced"
     },
     {
       "name": "Swift",
-      "level": "Advanced",
-      "keywords": [
-        "swift"
-      ]
+      "level": "Advanced"
     },
     {
       "name": "TDD",
-      "level": "Advanced",
-      "keywords": [
-        "tdd",
-        "test-drive-development"
-      ]
+      "level": "Advanced"
     },
     {
       "name": "API Development",
-      "level": "Advanced",
-      "keywords": [
-        "apis",
-        "restful-apis"
-      ]
+      "level": "Advanced"
     }
   ]
 }
