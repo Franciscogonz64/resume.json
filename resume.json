@@ -5,7 +5,6 @@
   "basics": {
     "name": "Francisco Gonzalez",
     "label": "Software Engineer",
-    "image": "https://user-images.githubusercontent.com/23651365/153500135-ffe1e3bf-00e9-491b-b253-e1fb2152c56f.png",
     "email": "francisco.gonz64@gmail.com",
     "phone": "(562) 716-0243",
     "summary": "I am a self-taught programmer and have constantly pushed myself to learn new technologies while sharing my ideas in a cross-functional development environment. Experienced with Front-End, Back-End development and database maintenance while building reusable components and libraries for future use with best-in-class patterns. I am looking for a challenging environment that will enhance my problem-solving skills around cloud infrastructure and microservices.",
@@ -16,7 +15,9 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "url": "https://linkedin.com/in/francisco-gonzalez-a31821b2",
+        "url": "https://linkedin.com/in/francisco-gonzalez-a31821b2"
+      },
+      {
         "network": "Github",
         "url": "https://github.com/Franciscogonz64"
       }
@@ -39,7 +40,6 @@
         "Learning these concepts changed my thought process while developing and allowed me to understand not only to how things work, but WHY."
       ]
     },
-
     {
       "name": "Microvention",
       "position": "JDE Coordinator",
@@ -54,22 +54,6 @@
         "Sharpened my analytical skills"
       ]
     },
-
-    {
-      "name": "Solar City",
-      "position": "Field Energy Consultant",
-      "startDate": "2015-09-01",
-      "endDate": "2015-12-01",
-      "location": "Hawthorne, CA",
-      "description": "Solar Panel Manufacturing & Installation",
-      "summary": "",
-      "highlights": [
-        "Enhanced my networking skills",
-        "Customer service",
-        "Improved my time management prioritization"
-      ]
-    },
-
     {
       "name": "Boyd West Inc.",
       "position": "Junior iOS Developer",
@@ -83,40 +67,8 @@
         "Familiarized myself with cloud-based message APIs and push notifications",
         "Gathered a better understanding of iOS design patterns"
       ]
-    },
-
-    {
-      "name": "Mercy Ambulance",
-      "position": "Emergency Medical Technician",
-      "startDate": "2013-10-01",
-      "endDate": "2014-04-01",
-      "location": "Downey, CA",
-      "description": "Emergency Response",
-      "summary": "",
-      "highlights": [
-        "Responded to emergency situations",
-        "Triaged patients based on how critical they were",
-        "Transported patients to & from hospitals"
-      ]
-    },
-
-    {
-      "name": "Knotts Berry Farm",
-      "position": "Ride Operator",
-      "startDate": "2011-04-01",
-      "endDate": "2012-09-01",
-      "location": "Buena Park, CA",
-      "description": "Theme Park",
-      "summary": "",
-      "highlights": [
-        "Operated rides and ensured the safety of guests",
-        "Customer Service",
-        "Trained new employees how to safely operate rides"
-      ]
     }
-
   ],
-
   "languages": [
     {
       "fluency": "Fluent",

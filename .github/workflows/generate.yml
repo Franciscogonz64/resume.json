@@ -2,9 +2,11 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'resume.json'
 jobs:
   generate_resume:
-    name: Buf tests
+    name: Genereate resumes
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -16,5 +18,5 @@ jobs:
       - name: Commit resumes
         run: |
           git add -A
-          git commit -m "regenerating commits"
+          git commit -m "regenerating resume"
           git push
