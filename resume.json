@@ -5,6 +5,7 @@
   "basics": {
     "name": "Francisco Gonzalez",
     "label": "Software Engineer",
+    "image": "https://user-images.githubusercontent.com/23651365/153500135-ffe1e3bf-00e9-491b-b253-e1fb2152c56f.png",
     "email": "francisco.gonz64@gmail.com",
     "phone": "(562) 716-0243",
     "summary": "I am a self-taught programmer and have constantly pushed myself to learn new technologies while sharing my ideas in a cross-functional development environment. Experienced with Front-End, Back-End development and database maintenance while building reusable components and libraries for future use with best-in-class patterns. I am looking for a challenging environment that will enhance my problem-solving skills around cloud infrastructure and microservices.",
@@ -39,7 +40,6 @@
         "Enhanced multiple features such as ADA compliance for visually impaired users, vehicle pairing, collision detection, user registrations, remote BlueTooth features",
         "Strengthened my frontend skill set using a Swift client and GoLang for backend microservices",
         "Improved product quality through code reviews, writing unit tests and collaborating with Senior Devs and QA team"
-
       ]
     },
     {
@@ -55,6 +55,20 @@
         "Setup and remove user profiles in JDE as well as 3rd party integrated applications: RFSMART and SOXLock",
         "Run and analyze World Writer reports to check for potential issues",
         "Check for out-of-balance inventory transactions, created tickets and assigned to team or consultants for resolution"
+      ]
+    },
+    {
+      "name": "Solar City",
+      "position": "Field Energy Consultant",
+      "startDate": "2015-09-01",
+      "endDate": "2015-12-01",
+      "location": "Hawthorne, CA",
+      "description": "Solar Panel Manufacturing & Installation",
+      "summary": "",
+      "highlights": [
+        "Enhanced my networking skills",
+        "Customer service",
+        "Improved my time management prioritization"
       ]
     },
     {

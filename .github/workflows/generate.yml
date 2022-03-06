@@ -1,3 +1,4 @@
+name: Generate resume
 on:
   push:
     branches:
@@ -15,6 +16,10 @@ jobs:
         uses: actions/setup-node@v2
       - name: Generate resumes
         run: npm run generate
+      - name: Configure git
+        run: |
+          git config --global user.name 'Franky'
+          git config --global user.email 'Franciscogonz64@users.noreply.github.com'
       - name: Commit resumes
         run: |
           git add -A
