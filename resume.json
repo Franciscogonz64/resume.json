@@ -32,12 +32,14 @@
       "startDate": "2020-02-01",
       "endDate": "2021-05-01",
       "position": "Fullstack Engineer",
-      "summary": "Successfully relaunched the Mercedes Me Connect iOS application into the Apple App Store while achieving a 4.8-star rating with 68k reviews from users. Collaborated with scrum team of developers, DevOps, and shareholders to translate client requirements into implementable user experiences. Improved product quality through code reviews, writing unit tests and collaborating with QA team. Enhanced multiple features such as ADA compliance for visually impaired users, vehicle pairing, collision detection, user registrations (Face & Fingerprint ID), remote unlocking vehicle and remote engine start/stop. Used Swift client for frontend development and GoLang for backend microservices. Gained experience with containerizing, automating and scaling applications using Docker, Kubernetes Terraform, AWS and Jenkins for CICD pipeline. Began to familiarize myself with Istio concepts such as Envoy, Telemetry (Kiali to monitor traffic flow, Jaeger for single request tracking and Grafana for monitoring infrastructure and log analytics to improve efficiency), Canary and Dark Releases, Fault Injections to observe fault tolerances and Circuit Breaking for limiting the impact of failure, latency spikes and other undesired network effects.",
+      "summary": "Used Swift client for frontend development and GoLang for backend microservices. Gained experience with containerizing, automating and scaling applications using Docker, Kubernetes, Terraform, AWS and Jenkins for CICD pipeline.",
       "highlights": [
-        "Enhanced my frontend skills set using a Swift client and GoLang for backend microservices",
-        "Introduced to backend team which began my interest with cloud infrastructure",
-        "Gained high-overview knowledge of Istio concepts for improving microservice-based architectures",
-        "Learning these concepts changed my thought process while developing and allowed me to understand not only to how things work, but WHY."
+        "Successfully relaunched the Mercedes Me Connect iOS application into the Apple App Store while achieving a 4.8-star rating with 68k reviews from users",
+        "Collaborated with scrum team of developers, DevOps, and shareholders to translate client requirements into implementable user experiences",
+        "Enhanced multiple features such as ADA compliance for visually impaired users, vehicle pairing, collision detection, user registrations, remote BlueTooth features",
+        "Strengthened my frontend skill set using a Swift client and GoLang for backend microservices",
+        "Improved product quality through code reviews, writing unit tests and collaborating with Senior Devs and QA team"
+
       ]
     },
     {
@@ -47,11 +49,12 @@
       "endDate": "2020-02-01",
       "location": "Aliso Viejo, CA",
       "description": "Neuroendovascular Medical Device Company",
-      "summary": "Support and assist medical device company with the ERP IT team with ongoing technical tasks (analysis, configuration, testing etc.). Setup and remove user profiles in JDE as well as 3rd party integrated applications: RFSMART and SOXLock. Run and analyze World Writer reports to check for potential issues. Maintain ERP system integrity by updating data using SQL or DFU. Check for out of balance Inventory transactions, create a ticket for those ones and assign to the team or consultant for resolution. Assist with update of shelf-life commitment and order lot allocations. Reprocess FedEx returns and receipts confirmations. Correct daily item lot issues.  Provide user training on JDE system. Resolve issues with output queues and clearing data on a weekly basis. Assist with Machine Shop project by adding/updating Bill of Materials. Assign or direct to correct group tickets in HelpDesk ticket system. Document new processes or issue resolution. Assist with any other tasks assigned by the ERP Systems Manager.",
+      "summary": "Support and assist medical device company with the ERP IT team with ongoing technical tasks (analysis, configuration, testing etc.). Maintain ERP system integrity by updating data using SQL or DFU. Resolve issues with output queues and clearing data on a weekly basis. Document new processes or issue resolution.",
       "highlights": [
         "Gained a better understanding of logistical services",
-        "Improved my SQL knowledge",
-        "Sharpened my analytical skills"
+        "Setup and remove user profiles in JDE as well as 3rd party integrated applications: RFSMART and SOXLock",
+        "Run and analyze World Writer reports to check for potential issues",
+        "Check for out-of-balance inventory transactions, created tickets and assigned to team or consultants for resolution"
       ]
     },
     {
@@ -64,7 +67,7 @@
       "summary": "Used Swift client, Unit/UI testing, Swift Data Structures, Protocol orientated programming, Face ID and Fingerprint ID recognition, Cocoapods, Core Data, GPS, RESTful APIs, JSON, FireBase, Alamofire and other various third-party frameworks to connect app to back-end services.",
       "highlights": [
         "Gained experience submitting apps to the App Store",
-        "Familiarized myself with cloud-based message APIs and push notifications",
+        "Familarized myself with cloud-based message APIs and push notifications",
         "Gathered a better understanding of iOS design patterns"
       ]
     }
@@ -121,21 +124,6 @@
         "aws",
         "amazon",
         "amazon-web-services"
-      ]
-    },
-    {
-      "name": "Jaeger",
-      "level": "Beginner",
-      "keywords": [
-        "jaeger"
-      ]
-    },
-    {
-      "name": "Istio",
-      "level": "Beginner",
-      "keywords": [
-        "istio",
-        "service-mesh"
       ]
     },
     {
